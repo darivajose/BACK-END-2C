@@ -1,0 +1,7 @@
+node js é uma linguagem interpretada usa o navegador ou o node no back end
+antes não tinha o node se utilizava javascript direto no navegador.
+
+ O node é um ambiente para rodar o codigo sem utilizar o navegador.
+ 
+    erros:
+    
